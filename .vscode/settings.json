@@ -1,0 +1,31 @@
+{
+    "python.pythonPath": "/home/nquiroga/.local/share/virtualenvs/graphQl_fastApi-9BmB-b6U/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.enabled": true,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ab307e",
+        "activityBar.activeBorder": "#25320e",
+        "activityBar.background": "#ab307e",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#25320e",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#832561",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#ab307e",
+        "titleBar.activeBackground": "#832561",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#83256199",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "editorGroup.border": "#ab307e",
+        "panel.border": "#ab307e",
+        "sideBar.border": "#ab307e",
+        "statusBar.border": "#832561",
+        "tab.activeBorder": "#ab307e",
+        "titleBar.border": "#832561"
+    },
+    "peacock.color": "#832561",
+    "python.linting.flake8Enabled": false
+}
